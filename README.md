@@ -119,3 +119,12 @@ This repo is a **showcase only**. If you’d like:
 This project is licensed under the [MIT License](LICENSE).  
 
 ---
+
+## 📬 Contact & Support
+
+For inquiries regarding the **source code** or collaborations, feel free to reach out:
+
+- **Email:** [rahmansyed862@gmail.com](mailto:rahmansyed862@gmail.com)  
+- **Mobile / Whatsapp:** +91-8639279800
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/syedabdurrahmanuddin/)
+
