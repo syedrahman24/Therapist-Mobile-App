@@ -12,10 +12,15 @@
 
 <p align="center">
    <b>A sleek, mobile-friendly portfolio app for therapists and mental health professionals.</b><br>
-   <i>Showcase expertise, build client trust, and enable easy booking — all in one place.</i>
+   <i>Showcase expertise, build client trust, and enable easy booking — all in one place.</i><br>
 
-   <b>Contact on below email for Code and Collaboration, this App is not for free.</b>
 </p>
+
+<p align="center">
+  <b>Contact on below email for Code and Collaboration, this App is not for free.</b><br>
+   
+</p>
+
 
 <p align="center">
    <a href="#features"><img src="https://img.shields.io/badge/Features-7+-blue" alt="Features"/></a>
