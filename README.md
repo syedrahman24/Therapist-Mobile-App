@@ -3,12 +3,18 @@
 
 
 <p align="center">
-   <img src="assets/app-icon-design.svg" alt="App Icon" width="120"/>
+   <img src="Screenshot_2025_09_30_23_42_13_97_e1b10c5ec56da584a02f30ae5966e7b2.jpg" alt="App Icon" width="120"/>
+   <img src="Screenshot_2025_09_30_23_42_31_65_e1b10c5ec56da584a02f30ae5966e7b2.jpg" alt="App Icon" width="120"/>
+   <img src="Screenshot_2025_09_30_23_42_40_34_e1b10c5ec56da584a02f30ae5966e7b2.jpg" alt="App Icon" width="120"/>
+   <img src="Screenshot_2025_09_30_23_43_06_50_e1b10c5ec56da584a02f30ae5966e7b2.jpg" alt="App Icon" width="120"/>
+   <img src="Screenshot_2025_09_30_23_46_07_17_e1b10c5ec56da584a02f30ae5966e7b2.jpg" alt="App Icon" width="120"/>
 </p>
 
 <p align="center">
    <b>A sleek, mobile-friendly portfolio app for therapists and mental health professionals.</b><br>
    <i>Showcase expertise, build client trust, and enable easy booking — all in one place.</i>
+
+   <b>Contact on below email for Code and Collaboration, this App is not for free.</b>
 </p>
 
 <p align="center">
@@ -20,15 +26,10 @@
 
 ---
 
-## 📸 Screenshots
-
-<p align="center">
+<!-- <p align="center">
    <img src="assets/screenshot-home.png" alt="Home Screen" width="250"/>
    <img src="assets/screenshot-services.png" alt="Services Screen" width="250"/>
-</p>
-
-<!-- Optionally, add a GIF demo -->
-![App Demo](assets/demo.gif)
+</p> -->
 
 ---
 
@@ -110,7 +111,7 @@ This repo is a **showcase only**. If you’d like:
 - Deployment to **App Store & Google Play**  
 - Additional integrations (calendars, payment, CRM)  
 
-👉 Reach out via **[Email](mailto:your-email@example.com)** or **[LinkedIn](https://linkedin.com/in/your-linkedin)**  
+👉 Reach out via **[Email](mailto:rahmansyed862@gmail.com)** or **[LinkedIn](https://www.linkedin.com/in/syedabdurrahmanuddin/)**  
 
 ---
 
